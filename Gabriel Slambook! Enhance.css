@@ -1,0 +1,17 @@
+body
+{background-color:lightslategray}
+
+form
+{border:7px solid; 
+    border-style: solid 25px; 
+    border-color: black;
+    border-radius:50px;
+    padding-top: 50px;
+    padding-bottom:50px;
+    margin-top:200px;
+    margin-bottom:200px;
+    margin-right:800px;
+    margin-left:800px; 
+    text-align: center;
+    box-sizing: border-box;
+}
